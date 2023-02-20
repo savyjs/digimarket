@@ -38,7 +38,7 @@
   ],
   "scripts": {
     "docsdev": "vitepress dev docs --port 4092",
-    "docsbuild": "vitepress build docs --port 4092 && cp ./docs/logo.png ./docs/.vitepress/dist",
+    "docsbuild": "vitepress build docs --port 4092 && cp ./logo.png ./.vitepress/dist",
     "demobuild": "cd ./test/fixture && nuxt build ",
     "docspreview": "vitepress preview docs  --port 4092",
     "release": "standard-version"
