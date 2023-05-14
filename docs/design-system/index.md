@@ -1,18 +1,13 @@
 ---
-title: Design System
+title: Design System Introduction
 ---
 
 
-## Demo
+## Introduction
+Welcome to our design system, a set of principles, guidelines, and reusable components that enable us to create consistent, accessible, and delightful user experiences across our products and platforms. By using a design system, we can reduce design and development time, increase efficiency, and ensure a cohesive brand identity.
 
-add nuxt module `nuxt-digimarket-kit` to your nuxt<Badge size="small">3</Badge> project, for instruction look [here](/nuxt/guide/install).
+## Our Inspiration
+Our design system draws inspiration from various sources, including [Atlassian's design system](https://atlassian.design), which is known for its simplicity, modularity, and flexibility. Atlassian's design system is a prime example of how a design system can benefit organizations of all sizes, from startups to enterprises.
 
-## Next
-
-coming soon ...
-
-## Angular
-
-coming soon ...
-
-
+## What You'll Find
+Our design system includes a variety of resources, such as design guidelines, color palettes, typography, icons, and UI components. These resources are organized and documented to ensure ease of use, scalability, and maintainability. By using our design system, you'll be able to create consistent, high-quality designs that meet our brand and accessibility standards.
