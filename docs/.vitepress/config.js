@@ -17,7 +17,7 @@ export default {
                 ]
             },
             {
-                text: 'Desing System',
+                text: 'Design System',
                 collapsible: true,
                 items: [
                     {
