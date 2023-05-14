@@ -8,7 +8,7 @@ hero:
   text: create marketplace pages easily.
   tagline: HTML/CSS - Nuxt - Angular - Next
   image:
-    src: /logo.png
+    src: logo.png
     alt: Savyjs
   actions:
     - theme: brand
