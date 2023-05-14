@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="fc8f70b3-2abd-47c5-a3cd-b07e36c00a63" name="ntm ssh">
+        <fileTransfer rootFolder="/home" accessType="SFTP" host="server.savyjs.com" port="7854" sshConfigId="ee9fbac4-14bf-4e02-9027-aa811f42aadc" sshConfig="root@server.savyjs.com:7854 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
