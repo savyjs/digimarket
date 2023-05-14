@@ -21,7 +21,7 @@ export default {
                 collapsible: true,
                 items: [
                     {
-                        text: 'Introduction', link: '/nuxt/design-system', collapsible: true
+                        text: 'Introduction', link: '/design-system', collapsible: true
                     }]
             },
             {
