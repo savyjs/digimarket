@@ -2,7 +2,7 @@
 title: TMK
 titleTemplate: Marketplace Kit for TailwindCss
 
-layout: home
+layout: home 
 hero:
   name: Marketplace Kit for Tailwind 
   text: create marketplace pages easily.
