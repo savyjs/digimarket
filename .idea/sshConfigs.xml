@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="SshConfigs">
-    <configs>
-      <sshConfig authType="PASSWORD" host="server.savyjs.com" id="ee9fbac4-14bf-4e02-9027-aa811f42aadc" port="7854" nameFormat="DESCRIPTIVE" username="root" useOpenSSHConfig="false" />
-    </configs>
-  </component>
-</project>
