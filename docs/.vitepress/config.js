@@ -17,6 +17,17 @@ export default {
                 ]
             },
             {
+                text: 'Desing System',
+                collapsible: true,
+                items: [
+                    {
+                        text: 'Introduce', link: '/nuxt/design-system', collapsible: true,
+                        items: [
+                            {text: 'components', link: '/nuxt/design-system/components'}
+                        ]
+                    }]
+            },
+            {
                 text: 'Nuxt',
                 collapsible: true,
                 items: [
