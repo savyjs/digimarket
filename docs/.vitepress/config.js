@@ -1,6 +1,6 @@
 export default {
-    title: 'Marketplace Kit for Tailwind',
-    description: 'under construction.',
+    title: 'Marketplace Kit',
+    description: 'A Package For E-Commerce UI',
     themeConfig: {
         logo: '/logo.png',
         footer: {
