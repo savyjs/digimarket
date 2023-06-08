@@ -23,10 +23,10 @@ export default defineAppConfig({
         divisions: [
             {
                 key: '1',
-                title: 'Asia',
+                title: 'Eurpa',
                 items: [{
                     key: "1",
-                    title: "US",
+                    title: "Germany",
                     items: [] // Provinces
                 }]
             }
