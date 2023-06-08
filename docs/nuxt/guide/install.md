@@ -8,7 +8,7 @@ title: Tailwind Marketplace Kit (TMK)
 npm i nuxt-digimarket-layer
 ```
 
-## Add Layer 
+## Adding Layer
 
 ```ts
 //  nuxt.config.ts
