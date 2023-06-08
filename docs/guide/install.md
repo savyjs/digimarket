@@ -8,20 +8,21 @@ title: Marketplace Kit for Tailwind
 npm i digimarket-kit
 ```
 
-## Tailwindcss
+## Using In Projects
 
-```js
-/* tailwind.config.js */
-module.exports =  {
-    plugins: [
-         'digimarket-kit/plugin'
-    ]
-}
+```css
+@import 'digimarket-kit/src/all.css'
 ```
 
-## Nuxt
+## Tailwindcss
 
-add nuxt module `nuxt-digimarket-kit` to your nuxt<Badge size="small">3</Badge> project, for instruction look [here](/nuxt/guide/install).
+coming soon ...
+
+## Nuxt Layer
+To integrate our design system into your Nuxt project, simply extend the nuxt-digimarket-layer to your existing Nuxt<Badge size="small">3</Badge> project. For detailed instructions, please refer to the installation guide. We are actively working on this layer, and the completed sections will be available in the "Nuxt" section of our documentation.
+
+## Nuxt E-Commerce App
+We are currently developing a fully functional e-commerce application using the Nuxt layer of our design system. This app serves as a comprehensive demonstration of our design system's capabilities and can be used as a reference for building similar projects. Stay tuned for more updates on this exciting development!
 
 ## Next
 
