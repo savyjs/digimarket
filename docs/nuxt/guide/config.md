@@ -4,14 +4,34 @@ title: Tailwind Marketplace Kit (TMK)
 
 ## config
 
-```ts nuxt.config.ts
-export default defineNuxtConfig({
-
-    ntm: {
-        // profile sidebar items
+```ts app.config.ts
+export default defineAppConfig({
+    digimarket: <DigimarketConfig>{
+        rtlDictionary: {
+            en: false,
+            fa: true
+        },
+        lang: 'en',
+        rtl: false,
+        logo: '/logo.png',
+        title: 'Title Here',
         profileMenuItems: [
-            
-        ]
+            {icon: 'fa fa-plus', text: 'Premium Account', svg: 'plus', link: '/v1/profile/plus'},
+            {icon: 'fa fa-list', text: 'My Actiity', svg: 'list', link: '/v1/profile/activity'},
+            {icon: 'fa fa-list', text: 'Orders', svg: 'order', link: '/v1/profile/orders'},
+        ],
+        divisions: [
+            {
+                key: '1',
+                title: 'Asia',
+                items: [{
+                    key: "1",
+                    title: "US",
+                    items: [] // Provinces
+                }]
+            }
+        ],
+        messages: undefined
     }
 })
 ```
