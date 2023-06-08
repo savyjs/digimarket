@@ -22,7 +22,14 @@ export default {
                 items: [
                     {
                         text: 'Introduction', link: '/design-system', collapsible: true
-                    }]
+                    },
+                    {
+                        text: 'Install', link: '/design-system/install', collapsible: true
+                    },
+                    {
+                        text: 'Components', link: '/design-system/components', collapsible: true
+                    }
+                ]
             },
             {
                 text: 'Nuxt',
