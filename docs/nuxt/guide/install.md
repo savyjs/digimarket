@@ -5,16 +5,16 @@ title: Tailwind Marketplace Kit (TMK)
 ## NPM
 
 ```sh
-npm i nuxt-digimarket-kit
+npm i nuxt-digimarket-layer
 ```
 
-## Add module
+## Add Layer 
 
 ```ts
 //  nuxt.config.ts
 export default defineNuxtConfig({
-modules: [
-        'nuxt-digimarket-kit'
+    extends: [
+        'nuxt-digimarket-layer'
     ]
 })
 ```
