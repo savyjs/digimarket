@@ -24,7 +24,16 @@ export default {
                         text: 'Introduction', link: '/design-system', collapsible: true
                     },
                     {
-                        text: 'Install', link: '/design-system/install', collapsible: true
+                        text: 'Config ', link: '/design-system/config', collapsible: true
+                    },
+                    {
+                        text: 'RTL Support ', link: '/design-system/rtl', collapsible: true
+                    },
+                    {
+                        text: 'Color ', link: '/design-system/color', collapsible: true
+                    },
+                    {
+                        text: 'Presets ', link: '/design-system/preset', collapsible: true
                     },
                     {
                         text: 'Components', link: '/design-system/components', collapsible: true
