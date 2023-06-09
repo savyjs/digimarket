@@ -27,6 +27,9 @@ export default {
                         text: 'Config ', link: '/design-system/config', collapsible: true, items: [
 
                             {
+                                text: 'Tailwind config ', link: '/design-system/config', collapsible: true
+                            },
+                            {
                                 text: 'Color ', link: '/design-system/config/colors', collapsible: true
                             },
                             {

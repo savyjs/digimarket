@@ -18,11 +18,11 @@ For example:
 }
 ```
 
-In your HTML file:
+In your CSS file:
 
-```html
-@import 'digimarket-tailwind/src/all.css'
-@import 'assets/css/my-preset.css'
+```css
+@import 'digimarket-tailwind/src/all.css';
+@import 'assets/css/my-preset.css';
 ```
 
 By following this approach, you can create your custom preset and apply specific styles to elements within that preset. 
