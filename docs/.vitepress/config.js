@@ -27,7 +27,7 @@ export default {
                         text: 'Config ', link: '/design-system/config', collapsible: true, items: [
 
                             {
-                                text: 'Color ', link: '/design-system/config/color', collapsible: true
+                                text: 'Color ', link: '/design-system/config/colors', collapsible: true
                             },
                             {
                                 text: 'Presets ', link: '/design-system/config/preset', collapsible: true
