@@ -30,7 +30,7 @@ Use the HTML attribute dir="auto" for containers where the direction (RTL or LTR
 :::
 
 ::: tip
-Avoid using keywords like right, left, top, and bottom (e.g., text-align: right, float: right). Instead, use start, center, end keywords (e.g., justify: center, align: end).
+Avoid using keywords like right, left, top, and bottom (e.g., text-align: right, float: right). Instead, use start, center, end keywords (e.g., justify-content: center, align-items: end).
 :::
 
 ::: tip
