@@ -83,7 +83,7 @@ in the GitHub Repository.)[https://github.com/savyjs/digimarket-tailwind/tree/ma
 for example:
 
 ```css
-@import 'digimarket-kit/components/buttons/button.css'
+@import 'digimarket-tailwind/components/buttons/button.css';
 ```
 
 By importing specific component files, you can utilize individual components in your projects while maintaining a

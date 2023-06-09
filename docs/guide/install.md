@@ -5,13 +5,13 @@ title: Marketplace Kit for Tailwind
 ## NPM
 
 ```sh
-npm i digimarket-kit
+npm i digimarket-tailwind
 ```
 
 ## Using In Projects
 
 ```css
-@import 'digimarket-kit/src/all.css'
+@import 'digimarket-tailwind/src/all.css'
 ```
 
 ## Tailwindcss
