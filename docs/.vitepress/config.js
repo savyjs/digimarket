@@ -24,16 +24,18 @@ export default {
                         text: 'Introduction', link: '/design-system', collapsible: true
                     },
                     {
-                        text: 'Config ', link: '/design-system/config', collapsible: true
-                    },
-                    {
-                        text: 'RTL Support ', link: '/design-system/rtl', collapsible: true
-                    },
-                    {
-                        text: 'Color ', link: '/design-system/color', collapsible: true
-                    },
-                    {
-                        text: 'Presets ', link: '/design-system/preset', collapsible: true
+                        text: 'Config ', link: '/design-system/config', collapsible: true, items: [
+
+                            {
+                                text: 'Color ', link: '/design-system/config/color', collapsible: true
+                            },
+                            {
+                                text: 'Presets ', link: '/design-system/config/preset', collapsible: true
+                            },
+                            {
+                                text: 'RTL Support ', link: '/design-system/config/rtl', collapsible: true
+                            }
+                        ]
                     },
                     {
                         text: 'Components', link: '/design-system/components', collapsible: true

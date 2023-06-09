@@ -2,21 +2,20 @@
 title: Design System Components
 ---
 
-## components structure
+## Components Structure
 
 the design system components play a crucial role in creating consistent and reusable UI elements across our
 applications.
 Each component in our design system has its own CSS and JS file.
 in css file there are different style scopes we explore.
 
-## base component structure
+## Basic Style
 
-The base component structure defines the fundamental classes that include responsive behaviour, layout, sizes, and
-shapes.
+Responsive behaviour, layout, sizes, and shapes in 
 These classes are designed to work seamlessly in both RTL and LTR directions.
 They are independent of configuration, themes and colors.
 
-```css[components/buttons/button.scss
+```css[components/buttons/button.scss]
 @layer components {
     .btn {
         @apply text-center justify-center flex rounded-lg px-5 py-2.5 text-center text-sm font-medium;
