@@ -25,3 +25,19 @@ This enhances visual diversity and aesthetic appeal.
 try to redefine a new preset instead of editing default colors. 
 the default preset designed generally for E-Commerce platforms.
 :::
+
+## Customize Pre-defined Colors
+
+You can customize some colors of theme by overriding tailwindcss config options.
+
+For example:
+
+```ts[tailwind.config.ts]
+module.exports = {
+  theme: {
+    colors: {
+        primary: "#2E9"  
+    }
+  }
+}
+```
