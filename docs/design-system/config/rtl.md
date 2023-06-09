@@ -4,7 +4,7 @@ title: RTl Support
 
 ## RTL Strategy
 
-When implementing right-to-left (RTL) support, it is important not to use the "RTL" class for the entire document. Instead, set the dir attribute to "rtl" on the <html> tag to indicate that the page should be rendered in RTL.
+When implementing right-to-left (RTL) support, it is important not to use the "RTL" class for the entire document. Instead, set the dir attribute to "rtl" on the `<html>` tag to indicate that the page should be rendered in RTL.
 Our components are designed to automatically adjust their behavior based on the RTL context.
 
 ```html
